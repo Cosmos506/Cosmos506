@@ -4,7 +4,7 @@ Hey ! Here's my README! *(I try not to judge pls ;)*
 
 # Me !
 
-- I am a young developer (only 4 months of dev!)
+- I am a young developer.
 - Constant learning (I've only recently learnt php, but I love it already!)
 - I am actively working on projects that are practically backend only (Portfolio, soon ...)
 
