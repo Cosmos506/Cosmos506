@@ -27,3 +27,7 @@ Hey here's my README! *(I try not to judge pls ;)*
 <img height="100px" src="img/logo-vscode.png" style="padding: 0 20px;">
 
 **for my editor, Visual Studio Code !**
+
+# My stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cosmos506)](https://github.com/anuraghazra/github-readme-stats)
