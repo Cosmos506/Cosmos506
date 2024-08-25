@@ -1,22 +1,22 @@
 ﻿# CosmosDev
 
-Hey ! Here's my README! *(I try not to judge pls ;)*
+Hey here's my README! *(I try not to judge pls ;)*
 
 # Me !
 
-- I am a young developer.
-- Constant learning (I've only recently learnt php, but I love it already!)
+- I am a young web developer.
+- I'm learning that at the same time as my high school
 - I am actively working on projects that are practically backend only (Portfolio, soon ...)
 
 # My langages
 
 <img height="100px" src="img/logo-html-css.png" style="padding: 0 20px;"> 
 
-**HTML and CSS to start with, of course!**
+**HTML and CSS to start**
 
 <img height="100px" src="img/logo-php.png" style="padding: 0 20px;">
 
-**Next, my favourite PHP!**
+**Next my backend language PHP**
 
 <img height="100px" src="img/logo-markdown.png" style="padding: 0 20px;">
 
@@ -26,4 +26,4 @@ Hey ! Here's my README! *(I try not to judge pls ;)*
 
 <img height="100px" src="img/logo-vscode.png" style="padding: 0 20px;">
 
-**He needs no introduction. Visual Studio Code !**
+**for my editor, Visual Studio Code !**
