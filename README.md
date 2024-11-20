@@ -1,31 +1,23 @@
 <h1 align="center">CosmosDev</h1>
 
-Hey here's my README! *(I try not to judge pls ;)*
+Hey here's my README.
 
-<h1 align="center">Me !</h1>
+<h1 align="center">Me</h1>
 
 - I am a young web developer.
-- I'm learning that at the same time as my high school
+- I'm learning that at the same time as my high school but more next years
 - I am actively working on projects that are practically backend only (Portfolio, soon ...)
 
 <h1 align="center">My Languages</h1>
 
+<div style= "display: flex; justify-content: center;">
   <img height="100px" src="img/logo-html-css.png" style="padding: 0 20px;">
-  <p> HTML and CSS to start </p>
-
-<img height="100px" src="img/logo-php.png" style="padding: 0 20px;">
-
-**Next my backend language PHP**
-
-<img height="100px" src="img/logo-markdown.png" style="padding: 0 20px;">
-
-**I don't know if you can call it a programming language, but it's always useful to have Markdown at hand**
-
+  <img height="100px" src="img/logo-php.png" style="padding: 0 20px;">
+  <img height="100px" src="img/logo-markdown.png" style="padding: 0 20px;">
+</div>
 <h1 align="center">My tools</h1>
 
 <img height="100px" src="img/logo-vscode.png" style="padding: 0 20px;">
-
-**for my editor, Visual Studio Code !**
 
 <h1 align="center">My Stats</h1>
 
