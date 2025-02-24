@@ -5,8 +5,8 @@ Hey here's my README.
 <h1 align="center">Me</h1>
 
 - I am a young web developer.
-- I'm learning that at the same time as my high school but more next years
-- I am actively working on projects that are practically backend only (Portfolio, soon ...)
+- I'm learning that at the same time as my high school but more in my studies
+- I am actively working on projects that are practically backend only (Portfolio, soon ...).
 
 <h1 align="center">My Languages</h1>
 
