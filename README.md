@@ -13,7 +13,6 @@
 
 <p align="center">
   <a href="https://github.com/Cosmos506"><img src="https://img.shields.io/github/followers/Cosmos506?label=Followers&style=social" /></a>
-  <img src="https://img.shields.io/github/last-commit/Cosmos506/Cosmos506?label=Last%20commit" />
   <img src="https://img.shields.io/badge/-Always%20Learning-FF6F61?style=flat-square&logo=github" />
 </p>
 
@@ -21,7 +20,7 @@
 
 ### About Me
 
-- I'm a 16-year-old passionate and creative coder.
+- I'm a 17-year-old passionate and creative coder.
 - Never out of project ideas — always building something!
 
 ---
@@ -30,7 +29,7 @@
 
 - A secret multiplayer web project (shh... it's a surprise!)
 - Practicing Python through the [roadmap.sh](https://roadmap.sh/python) learning path.
-- Learning **Symfony** with awesome tutorials by **Grafikart**.
+- Learning **Symfony** with tutorials by **Grafikart**.
 
 ---
 
@@ -70,4 +69,5 @@ _“Create, learn, collaborate.”_
 
 > _“Talk is cheap. Show me the code.”_  
 > — Linus Torvalds
+
 
