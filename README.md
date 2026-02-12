@@ -50,6 +50,7 @@
 ### GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cosmos506&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmos506&layout=compact)
 
 ---
 
@@ -66,6 +67,7 @@ _“Create, learn, collaborate.”_
 
 > _“Talk is cheap. Show me the code.”_  
 > — Linus Torvalds
+
 
 
 
