@@ -49,9 +49,8 @@
 
 ### GitHub Stats
 
-<p align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="Cosmos506's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Cosmos506?    cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
-</p>
+![Cosmos506 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cosmos506&theme=light&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosmos506&layout=compact)
 
 ---
 
@@ -68,6 +67,7 @@ _“Create, learn, collaborate.”_
 
 > _“Talk is cheap. Show me the code.”_  
 > — Linus Torvalds
+
 
 
 
