@@ -20,26 +20,22 @@
 
 ### About Me
 
-- I'm a 17-year-old passionate and creative coder.
-- Never out of project ideas — always building something!
+I am a 17-year-old student passionate about AI, creative and always determined.
 
 ---
 
-### Currently Working On...
+### My projects
 
-- A secret multiplayer web project (shh... it's a surprise!)
-- Practicing Python through the [roadmap.sh](https://roadmap.sh/python) learning path.
-- Learning **Symfony** with tutorials by **Grafikart**.
+- [ia.research](https://github.com/Cosmos506/ia.research) : The AIs ranked between themselves
+- [pyxel-game](https://github.com/Cosmos506/Pyxel-game) : I created a game in 8 hours
 
 ---
 
 ### Languages & Tools
 
-- **Learning**:  
+- **Using**:
+  
   ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-  ![Symfony](https://img.shields.io/badge/-Symfony-000?style=flat&logo=symfony)
-
-- **Using**:  
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
