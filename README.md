@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm CosmosDev!</h1>
 
 <p align="center">
-  A young <strong>coding enthusiast</strong> on a journey to build and explore.
+   A 17-year-old student passionate about AI. People describe me as <strong>creative</strong> and <strong>determinate</strong>. 
 </p>
 
 <p align="center">
@@ -15,12 +15,6 @@
   <a href="https://github.com/Cosmos506"><img src="https://img.shields.io/github/followers/Cosmos506?label=Followers&style=social" /></a>
   <img src="https://img.shields.io/badge/-Always%20Learning-FF6F61?style=flat-square&logo=github" />
 </p>
-
----
-
-### About Me
-
-I am a 17-year-old student passionate about AI, creative and always determined.
 
 ---
 
